@@ -8,9 +8,10 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello SLK.Hows it going!" );
+        System.out.println( "Hello SLK.Hows it going changes!" );
 
-        System.out.println("A NullPointerException is a drag...");
+        System.out.println("A NullPointerException is a xfgdcgf drag...");
+        System.out.println("second A NullPointerException is a xfgdcgf drag...");
         Object myObject = null;
         /**
          * Checker prevents this from compiling...
